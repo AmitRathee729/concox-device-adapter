@@ -1,0 +1,11 @@
+{
+  "name": "concox-device-adapter",
+  "version": "1.0.0",
+  "description": "simulator & device adapter for a Concox device",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Amit Rathee",
+  "license": "ISC",
+  "main": "server.js"
+}
